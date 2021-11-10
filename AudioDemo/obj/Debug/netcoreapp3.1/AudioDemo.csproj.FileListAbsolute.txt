@@ -1,0 +1,22 @@
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\AudioDemo.exe
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\AudioDemo.deps.json
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\AudioDemo.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\AudioDemo.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\AudioDemo.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\AudioDemo.pdb
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.pdb
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\What_in_the_F_ck_was_that_-Gaming_Sound_Effect (HD).wav
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\AudioDemo\obj\Debug\netcoreapp3.1\AudioDemo.csproj.CopyComplete

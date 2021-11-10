@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\ConsoleUI3\bin\Debug\ConsoleUI3.exe.config
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\ConsoleUI3\bin\Debug\ConsoleUI3.exe
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\ConsoleUI3\bin\Debug\ConsoleUI3.pdb
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\ConsoleUI3\obj\Debug\ConsoleUI3.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\ConsoleUI3\obj\Debug\ConsoleUI3.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\ConsoleUI3\obj\Debug\ConsoleUI3.exe
+C:\Users\opilane\source\repos\TITpe21\ConsoleUI\ConsoleUI3\obj\Debug\ConsoleUI3.pdb
